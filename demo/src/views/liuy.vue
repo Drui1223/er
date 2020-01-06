@@ -1,11 +1,15 @@
 <template>
-  <div class="home">
-    <h1>首页</h1>
+  <div class="liu">
+      222
   </div>
 </template>
 
 <script>
 export default {
- 
+
 }
 </script>
+
+<style>
+
+</style>
